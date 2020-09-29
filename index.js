@@ -1,5 +1,7 @@
 const farmAnimals = 'cow horse sheep pig chicken'
 
+const [Bessie, ,Dolly, Babe, Little] = farmAnimals.aplit('')
+
 const colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
 
 const muppet = {
